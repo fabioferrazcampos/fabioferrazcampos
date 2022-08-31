@@ -7,8 +7,8 @@
 - 📫 Encontre-me em fcamposdevoficial@gmail.com
  
  <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabioferrazcampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioferrazcampos&laout=compact&langs_count=10&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabioferrazcampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabioferrazcampos&laout=compact&langs_count=10&theme=tokyonight"/>
   </div>
 
 ##
