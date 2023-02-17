@@ -3,7 +3,7 @@
 
 
 - 🔭 Atualmente trabalho como motorista com produtoras de cimena
-- 🌱 Estudante do curso Analises e D esenvolvimeto de Software na escola SENAC-SP
+- 🌱 Estudante do curso Analises e Desenvolvimeto de Software na escola SENAC-SP
 - 📫 Encontre-me em fabioferraz.1@gmail.com
  
  <div>
